@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vjezba Anketa Elemenata</string>
+
+    <string-array name="countries">
+        <item>Croatia</item>
+        <item>Slovenia</item>
+        <item>Serbia</item>
+    </string-array>
+</resources>
